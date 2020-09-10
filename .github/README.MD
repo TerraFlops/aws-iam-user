@@ -1,8 +1,8 @@
 # Terraflops Terraform Module
  
-### Module name
+### AWS IAM User
 
-Insert module description
+Terraform Module to create IAM Users in AWS
 
 #### Example usage
 
