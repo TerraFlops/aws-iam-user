@@ -8,7 +8,7 @@ Insert module description
 
 ```hcl-terraform
 module "example" {
-  source = "git::https://github.com/TerraFlops/module-name?ref=v1.0"
+  source = "git::https://github.com/TerraFlops/aws-iam-user?ref=v1.0"
   ...
 }
 ```
